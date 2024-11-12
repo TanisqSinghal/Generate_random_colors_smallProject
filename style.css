@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.colors {
+  background-color: get;
+}
+
+h3 {
+  border: 2px solid black;
+  margin-top: 200px;
+  font-family: fira code;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
